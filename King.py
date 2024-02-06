@@ -296,7 +296,7 @@ def result(OKs,cps):
         print(' TOTAL CP: \x1b[1;96m%s' % str(len(cps)))
         input("Press enter to back SABBIR Menu ")
         exit()
-os.system("xd-open https://github.com/Sabbirahned427/Agent/blob/main/Approval.txt")
+os.system("xd-open https://github.com/Sabbirahned427/King/blob/main/Approvel.txt")
 def menu():   
     os.system('clear')
     print(logo)
